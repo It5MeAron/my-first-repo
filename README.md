@@ -1,3 +1,3 @@
 # my-first-repo
 
-[link tekst](https://www.zuyd.nl)
+[ZUYD](https://www.zuyd.nl)
