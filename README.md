@@ -2,4 +2,4 @@
 
 [ZUYD](https://www.zuyd.nl)
 <br>
-![literally me](IMG_3435.JPG)
+<img src="IMG_3435.JPG" width="100" alt="literally me"/>
